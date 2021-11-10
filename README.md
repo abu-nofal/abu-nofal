@@ -12,15 +12,6 @@ I'm 23 years old ,I graduate from al Balqa applied University as a Mechanical En
 - 🥶 React JS , Node JS , Express JS, Redux 
 - 💣 Restful API , Socket.io, Jest 
 
-
-| <a href="https://github.com/abu-nofal/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=abu-nofal&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/abu-nofal/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abu-nofal&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
---- 
-### 📫 How to reach me :
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/abu-nofal) [<img src='https://github.com/ibrahemomari/ibrahemomari/blob/main/img/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ahmad-nofal-7036a419a//) [<img src='https://github.com/ibrahemomari/ibrahemomari/blob/main/img/facebook.png' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/ahmed.nofal.7374)  
-
-
 --- 
 ### Languages and Tools: 
 
@@ -93,3 +84,14 @@ I'm 23 years old ,I graduate from al Balqa applied University as a Mechanical En
         </div>
 
 </div>
+
+
+| <a href="https://github.com/abu-nofal/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=abu-nofal&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/abu-nofal/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abu-nofal&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+--- 
+### 📫 How to reach me :
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/abu-nofal) [<img src='https://github.com/ibrahemomari/ibrahemomari/blob/main/img/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ahmad-nofal-7036a419a//) [<img src='https://github.com/ibrahemomari/ibrahemomari/blob/main/img/facebook.png' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/ahmed.nofal.7374)  
+
+
+
