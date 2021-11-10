@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Ahmad Nofal
 #### I'm a Full Stack Developer 
-![I'm a Full Stack Developer ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I'm a Full Stack Developer ]("./ahmadC")
 
 I'm Ahmad Nofal I'm 23 years old ,I graduate from al Balqa applied University as a Mechanical Engineer , and after will a toke a scholarship with ASAC to become a full stack developer  ...
 
