@@ -4,16 +4,29 @@
 </p>
 
 
-I'm 23 years old ,I graduate from al Balqa applied University as a Mechanical Engineer , and after will a toke a scholarship with ASAC to become a full stack developer  ...
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> I'm a Full Stack Developer 
+<details>
+  <summary><b>🛠️&nbsp;&nbsp;about&nbsp;me</b></summary>
+  <br/>
+ <p>
+  ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> I'm a Full Stack Developer 
+  
+  and I'm 23 years old ,I graduate from al Balqa applied University as a Mechanical Engineer , and after will a toke a scholarship with ASAC to become a full stack developer  ...
+
 ![Profile views](https://gpvc.arturio.dev/abu-nofal) 
+ </p>
+</details> 
 
 
-### Skills & Experience 
-- 💻 HTML , CSS ,JS
-- 🥶 React JS , Node JS , Express JS, Redux 
-- 💣 Restful API , Socket.io, Jest 
 
+<details>
+  <summary><b>🎮&nbsp;&nbsp;Skills&nbsp;&&nbsp;Experience</b></summary>
+  <br/>
+ <ul>
+  <li>💻 HTML , CSS ,JS</li>
+  <li>🥶 React JS , Node JS , Express JS, Redux </li>
+  <li>💣 Restful API , Socket.io, Jest </li>
+ </ul>
+ </details>
 --- 
 <details>
   <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
