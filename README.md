@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Ahmad Nofal
  <p align="center">
- <img src="https://miro.medium.com/max/1313/1*0UUwxZdDkbim-aiNVMa_mg.gif" alt="img"/>
+ <img src="https://miro.medium.com/max/1313/1*0UUwxZdDkbim-aiNVMa_mg.gif" alt="img" width="100%"/>
 </p>
 
 
