@@ -1,5 +1,7 @@
 # Hi there 👋, I'm Ahmad Nofal
- <p align="center">![I'm a Full Stack Developer ](https://miro.medium.com/max/1313/1*0UUwxZdDkbim-aiNVMa_mg.gif)</p>
+ <p align="center">
+ <img src="https://miro.medium.com/max/1313/1*0UUwxZdDkbim-aiNVMa_mg.gif" alt="img"/>
+</p>
 
 
 I'm 23 years old ,I graduate from al Balqa applied University as a Mechanical Engineer , and after will a toke a scholarship with ASAC to become a full stack developer  ...
