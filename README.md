@@ -40,56 +40,55 @@ I'm 23 years old ,I graduate from al Balqa applied University as a Mechanical En
     margin: .2rem;
     transition: 1s;
     transform: rotate(-15deg);" src="https://github.com/ibrahemomari/ibrahemomari/blob/main/skills/icons8-css3-48.png" alt=""></code>
-            <img style="   border: none;
+           <code><img style="   border: none;
     border-radius: 10px;
     width: 2rem;
     height: 2rem;
     margin: .2rem;
     transition: 1s;
-    transform: rotate(-15deg);" src="https://github.com/ibrahemomari/ibrahemomari/blob/main/skills/icons8-javascript-48.png" alt="">
-            <img style="   border: none;
+    transform: rotate(-15deg);" src="https://github.com/ibrahemomari/ibrahemomari/blob/main/skills/icons8-javascript-48.png" alt=""></code>
+           <code><img style="   border: none;
     border-radius: 10px;
     width: 2rem;
     height: 2rem;
     margin: .2rem;
     transition: 1s;
-    transform: rotate(-15deg);" src="https://github.com/ibrahemomari/ibrahemomari/blob/main/skills/icons8-bootstrap-48.png" alt="">
-           
-            <img style="   border: none;
+    transform: rotate(-15deg);" src="https://github.com/ibrahemomari/ibrahemomari/blob/main/skills/icons8-bootstrap-48.png" alt=""></code>
+           <code><img style="   border: none;
     border-radius: 10px;
     width: 2rem;
     height: 2rem;
     margin: .2rem;
     transition: 1s;
-    transform: rotate(-15deg);" src="https://github.com/ibrahemomari/ibrahemomari/blob/main/skills/icons8-mongodb-48.png" alt="">
-            <img style="   border: none;
+    transform: rotate(-15deg);" src="https://github.com/ibrahemomari/ibrahemomari/blob/main/skills/icons8-mongodb-48.png" alt=""></code>
+            <code><img style="   border: none;
     border-radius: 10px;
     width: 2rem;
     height: 2rem;
     margin: .2rem;
     transition: 1s;
-    transform: rotate(-15deg);" src="https://github.com/ibrahemomari/ibrahemomari/blob/main/skills/icons8-node-js-48.png" alt="">
-            <img style="   border: none;
+    transform: rotate(-15deg);" src="https://github.com/ibrahemomari/ibrahemomari/blob/main/skills/icons8-node-js-48.png" alt=""></code>
+            <code><img style="   border: none;
     border-radius: 10px;
     width: 2rem;
     height: 2rem;
     margin: .2rem;
     transition: 1s;
-    transform: rotate(-15deg);" src="https://github.com/ibrahemomari/ibrahemomari/blob/main/skills/icons8-postgresql-48.png" alt="">
-            <img style="   border: none;
+    transform: rotate(-15deg);" src="https://github.com/ibrahemomari/ibrahemomari/blob/main/skills/icons8-postgresql-48.png" alt=""></code>
+            <code><img style="   border: none;
     border-radius: 10px;
     width: 2rem;
     height: 2rem;
     margin: .2rem;
     transition: 1s;
-    transform: rotate(-15deg);" src="https://github.com/ibrahemomari/ibrahemomari/blob/main/skills/icons8-react-16.png" alt="">
-            <img style="   border: none;
+    transform: rotate(-15deg);" src="https://github.com/ibrahemomari/ibrahemomari/blob/main/skills/icons8-react-16.png" alt=""></code>
+            <code><img style="   border: none;
     border-radius: 10px;
     width: 2rem;
     height: 2rem;
     margin: .2rem;
     transition: 1s;
-    transform: rotate(-15deg);" src="https://github.com/ibrahemomari/ibrahemomari/blob/main/skills/icons8-sass-48.png" alt="">
+    transform: rotate(-15deg);" src="https://github.com/ibrahemomari/ibrahemomari/blob/main/skills/icons8-sass-48.png" alt=""></code>
         </div>
         </div>
 
