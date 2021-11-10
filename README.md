@@ -108,7 +108,9 @@
   <summary><b>📫 &nbsp;&nbsp;How&nbsp;to&nbsp;reach me</b></summary>
   <br/>
  <p align="center">
-  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/abu-nofal) [<img src='https://github.com/ibrahemomari/ibrahemomari/blob/main/img/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ahmad-nofal-7036a419a//) [<img src='https://github.com/ibrahemomari/ibrahemomari/blob/main/img/facebook.png' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/ahmed.nofal.7374)  
+ <a herf="https://github.com/https://github.com/abu-nofal"> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'> <a/>
+  <a herf="https://www.linkedin.com/in/https://www.linkedin.com/in/ahmad-nofal-7036a419a//"><img src='https://github.com/ibrahemomari/ibrahemomari/blob/main/img/linkedin.png' alt='linkedin' height='40'>  </a>
+  <a herf="https://www.facebook.com/https://www.facebook.com/ahmed.nofal.7374"><img src='https://github.com/ibrahemomari/ibrahemomari/blob/main/img/facebook.png' alt='facebook' height='40'></a>
  </p>
  </details>
 
