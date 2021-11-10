@@ -15,9 +15,10 @@ I'm 23 years old ,I graduate from al Balqa applied University as a Mechanical En
 - 💣 Restful API , Socket.io, Jest 
 
 --- 
-### Languages and Tools: 
-
-<div align="center" class="row">
+<details>
+  <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
+  <br/>
+ <div align="center" class="row">
             <div class="skills">
             <code><img style="   border: none;
     border-radius: 10px;
@@ -86,6 +87,9 @@ I'm 23 years old ,I graduate from al Balqa applied University as a Mechanical En
         </div>
 
 </div>
+
+ 
+ </details>
 
 </br>
 
