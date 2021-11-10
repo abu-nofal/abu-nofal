@@ -8,7 +8,7 @@
   <summary><b>🛠️&nbsp;&nbsp;about&nbsp;me</b></summary>
   <br/>
  <p>
-  ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> I'm a Full Stack Developer 
+ <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> I'm a Full Stack Developer 
   
   and I'm 23 years old ,I graduate from al Balqa applied University as a Mechanical Engineer , and after will a toke a scholarship with ASAC to become a full stack developer  ...
 
@@ -27,7 +27,7 @@
   <li>💣 Restful API , Socket.io, Jest </li>
  </ul>
  </details>
---- 
+
 <details>
   <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
   <br/>
@@ -110,8 +110,14 @@
 | ------------- | ------------- |
 
 --- 
-### 📫 How to reach me :
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/abu-nofal) [<img src='https://github.com/ibrahemomari/ibrahemomari/blob/main/img/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ahmad-nofal-7036a419a//) [<img src='https://github.com/ibrahemomari/ibrahemomari/blob/main/img/facebook.png' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/ahmed.nofal.7374)  
+<details>
+  <summary><b>📫 &nbsp;&nbsp;How&nbsp;to&nbsp;reach me</b></summary>
+  <br/>
+ <p align="center">
+  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/abu-nofal) [<img src='https://github.com/ibrahemomari/ibrahemomari/blob/main/img/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ahmad-nofal-7036a419a//) [<img src='https://github.com/ibrahemomari/ibrahemomari/blob/main/img/facebook.png' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/ahmed.nofal.7374)  
+ </p>
+ </details>
+
 
 
 
