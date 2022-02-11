@@ -11,8 +11,6 @@
  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> I'm a Full Stack Developer 
   
   and I'm 23 years old ,I graduate from al Balqa applied University as a Mechanical Engineer , and after will a toke a scholarship with ASAC to become a full stack developer  ...
-
-![Profile views](https://gpvc.arturio.dev/abu-nofal) 
  </p>
 </details> 
 
